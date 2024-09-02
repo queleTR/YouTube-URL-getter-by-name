@@ -23,3 +23,7 @@ This Python script retrieves YouTube URLs based on a list of song titles. Utiliz
    ```bash
    git clone https://github.com/queleTR/YouTube-URL-getter-by-name.git
    cd YouTube-URL-getter-by-name
+
+
+## Coming Soon
+That you can generate a youtube playlist with the URLS
